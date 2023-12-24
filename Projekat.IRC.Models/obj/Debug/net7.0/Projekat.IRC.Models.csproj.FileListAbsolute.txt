@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Models\bin\Debug\net7.0\Projekat.IRC.Models.deps.json
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Models\bin\Debug\net7.0\Projekat.IRC.Models.dll
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Models\bin\Debug\net7.0\Projekat.IRC.Models.pdb
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Models\obj\Debug\net7.0\Projekat.IRC.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Models\obj\Debug\net7.0\Projekat.IRC.Models.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Models\obj\Debug\net7.0\Projekat.IRC.Models.AssemblyInfo.cs
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Models\obj\Debug\net7.0\Projekat.IRC.Models.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Models\obj\Debug\net7.0\Projekat.IRC.Models.dll
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Models\obj\Debug\net7.0\refint\Projekat.IRC.Models.dll
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Models\obj\Debug\net7.0\Projekat.IRC.Models.pdb
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Models\obj\Debug\net7.0\ref\Projekat.IRC.Models.dll

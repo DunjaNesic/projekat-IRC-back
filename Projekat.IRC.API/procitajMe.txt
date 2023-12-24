@@ -1,0 +1,6 @@
+Krenula sam da radim front sa vec postojecim dummy podacima u bazi 
+i onda nisam primetila da se sekcija Pregled stanja opreme ne apdejtuje 
+kada se doda oprema preko Forme za dodavanje opreme, ali azurira se u bazi 
+i to moze da se vidi kada se rifresuje stranica. U sekciji za zaduzivanje 
+opreme je ta greska ispravljena i tabela se apdejtuje cim se zaduzenje doda. 
+

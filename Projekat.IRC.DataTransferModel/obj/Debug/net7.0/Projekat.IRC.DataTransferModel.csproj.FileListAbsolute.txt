@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataTransferModel\bin\Debug\net7.0\Projekat.IRC.DataTransferModel.deps.json
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataTransferModel\bin\Debug\net7.0\Projekat.IRC.DataTransferModel.dll
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataTransferModel\bin\Debug\net7.0\Projekat.IRC.DataTransferModel.pdb
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataTransferModel\obj\Debug\net7.0\Projekat.IRC.DataTransferModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataTransferModel\obj\Debug\net7.0\Projekat.IRC.DataTransferModel.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataTransferModel\obj\Debug\net7.0\Projekat.IRC.DataTransferModel.AssemblyInfo.cs
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataTransferModel\obj\Debug\net7.0\Projekat.IRC.DataTransferModel.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataTransferModel\obj\Debug\net7.0\Projekat.IRC.DataTransferModel.dll
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataTransferModel\obj\Debug\net7.0\refint\Projekat.IRC.DataTransferModel.dll
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataTransferModel\obj\Debug\net7.0\Projekat.IRC.DataTransferModel.pdb
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataTransferModel\obj\Debug\net7.0\ref\Projekat.IRC.DataTransferModel.dll

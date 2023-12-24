@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Projekat.IRC.BusinessLogic.Interfaces\Projekat.IRC.BusinessLogic.Interfaces.csproj" />
+    <ProjectReference Include="..\Projekat.IRC.DataAccessLayer\Projekat.IRC.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\Projekat.IRC.Logging\Projekat.IRC.Logging.csproj" />
+    <ProjectReference Include="..\Projekat.IRC.Models\Projekat.IRC.Models.csproj" />
+  </ItemGroup>
+
+</Project>

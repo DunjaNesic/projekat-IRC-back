@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Projekat.IRC.API.props" />
+</Project>

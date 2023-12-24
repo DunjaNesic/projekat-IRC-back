@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.BusinessLogic.Interfaces\bin\Debug\net7.0\Projekat.IRC.BusinessLogic.Interfaces.deps.json
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.BusinessLogic.Interfaces\bin\Debug\net7.0\Projekat.IRC.BusinessLogic.Interfaces.dll
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.BusinessLogic.Interfaces\bin\Debug\net7.0\Projekat.IRC.BusinessLogic.Interfaces.pdb
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.BusinessLogic.Interfaces\bin\Debug\net7.0\Projekat.IRC.Models.dll
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.BusinessLogic.Interfaces\bin\Debug\net7.0\Projekat.IRC.Models.pdb
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.BusinessLogic.Interfaces\obj\Debug\net7.0\Projekat.IRC.BusinessLogic.Interfaces.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.BusinessLogic.Interfaces\obj\Debug\net7.0\Projekat.IRC.BusinessLogic.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.BusinessLogic.Interfaces\obj\Debug\net7.0\Projekat.IRC.BusinessLogic.Interfaces.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.BusinessLogic.Interfaces\obj\Debug\net7.0\Projekat.IRC.BusinessLogic.Interfaces.AssemblyInfo.cs
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.BusinessLogic.Interfaces\obj\Debug\net7.0\Projekat.IRC.BusinessLogic.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.BusinessLogic.Interfaces\obj\Debug\net7.0\Projekat.IRC.BusinessLogic.Interfaces.csproj.CopyComplete
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.BusinessLogic.Interfaces\obj\Debug\net7.0\Projekat.IRC.BusinessLogic.Interfaces.dll
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.BusinessLogic.Interfaces\obj\Debug\net7.0\refint\Projekat.IRC.BusinessLogic.Interfaces.dll
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.BusinessLogic.Interfaces\obj\Debug\net7.0\Projekat.IRC.BusinessLogic.Interfaces.pdb
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.BusinessLogic.Interfaces\obj\Debug\net7.0\ref\Projekat.IRC.BusinessLogic.Interfaces.dll

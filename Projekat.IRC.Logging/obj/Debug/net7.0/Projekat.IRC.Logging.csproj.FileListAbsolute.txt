@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Logging\bin\Debug\net7.0\Projekat.IRC.Logging.deps.json
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Logging\bin\Debug\net7.0\Projekat.IRC.Logging.dll
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Logging\bin\Debug\net7.0\Projekat.IRC.Logging.pdb
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Logging\obj\Debug\net7.0\Projekat.IRC.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Logging\obj\Debug\net7.0\Projekat.IRC.Logging.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Logging\obj\Debug\net7.0\Projekat.IRC.Logging.AssemblyInfo.cs
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Logging\obj\Debug\net7.0\Projekat.IRC.Logging.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Logging\obj\Debug\net7.0\Projekat.IRC.Logging.dll
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Logging\obj\Debug\net7.0\refint\Projekat.IRC.Logging.dll
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Logging\obj\Debug\net7.0\Projekat.IRC.Logging.pdb
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.Logging\obj\Debug\net7.0\ref\Projekat.IRC.Logging.dll

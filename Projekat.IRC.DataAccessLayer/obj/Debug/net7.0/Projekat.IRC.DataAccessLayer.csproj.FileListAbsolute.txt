@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataAccessLayer\obj\Debug\net7.0\Projekat.IRC.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataAccessLayer\obj\Debug\net7.0\Projekat.IRC.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataAccessLayer\obj\Debug\net7.0\Projekat.IRC.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataAccessLayer\obj\Debug\net7.0\Projekat.IRC.DataAccessLayer.AssemblyInfo.cs
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataAccessLayer\obj\Debug\net7.0\Projekat.IRC.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataAccessLayer\bin\Debug\net7.0\Projekat.IRC.DataAccessLayer.deps.json
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataAccessLayer\bin\Debug\net7.0\Projekat.IRC.DataAccessLayer.runtimeconfig.json
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataAccessLayer\bin\Debug\net7.0\Projekat.IRC.DataAccessLayer.dll
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataAccessLayer\bin\Debug\net7.0\Projekat.IRC.DataAccessLayer.pdb
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataAccessLayer\bin\Debug\net7.0\Projekat.IRC.Models.dll
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataAccessLayer\bin\Debug\net7.0\Projekat.IRC.Models.pdb
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataAccessLayer\obj\Debug\net7.0\Projekat.IRC.DataAccessLayer.csproj.CopyComplete
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataAccessLayer\obj\Debug\net7.0\Projekat.IRC.DataAccessLayer.dll
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataAccessLayer\obj\Debug\net7.0\refint\Projekat.IRC.DataAccessLayer.dll
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataAccessLayer\obj\Debug\net7.0\Projekat.IRC.DataAccessLayer.pdb
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataAccessLayer\obj\Debug\net7.0\Projekat.IRC.DataAccessLayer.genruntimeconfig.cache
+C:\Users\PC\Desktop\ProjekatIRC\Projekat.IRC.DataAccessLayer\obj\Debug\net7.0\ref\Projekat.IRC.DataAccessLayer.dll

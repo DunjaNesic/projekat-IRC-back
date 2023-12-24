@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Projekat.IRC.BusinessLogic.Interfaces/1.0.0": {
+        "dependencies": {
+          "Projekat.IRC.Models": "1.0.0"
+        },
+        "runtime": {
+          "Projekat.IRC.BusinessLogic.Interfaces.dll": {}
+        }
+      },
+      "Projekat.IRC.Models/1.0.0": {
+        "runtime": {
+          "Projekat.IRC.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projekat.IRC.BusinessLogic.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Projekat.IRC.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
